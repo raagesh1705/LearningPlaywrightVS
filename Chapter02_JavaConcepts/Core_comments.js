@@ -1,4 +1,4 @@
-﻿//This is a comment - this code will not run 
+//This is a comment - this code will not run 
 console.log("Hello");
 // Above are source code 
 

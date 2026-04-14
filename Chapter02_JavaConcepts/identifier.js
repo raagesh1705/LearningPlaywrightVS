@@ -1,4 +1,4 @@
-﻿//identifiers, literals, operators
+//identifiers, literals, operators
 //var, let, const
 
 //variable name or identifier - a (name which is given to the container which holds the value)

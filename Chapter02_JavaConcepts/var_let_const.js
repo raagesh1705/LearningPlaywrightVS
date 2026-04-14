@@ -1,4 +1,4 @@
-﻿//var, let, const 
+//var, let, const 
 
 //VARIABLES 
 //var - function scoped 
@@ -35,7 +35,7 @@ console.log(b);
 
 function test1 (){
     console.log("print me ");
-    let b = 30; // local scope 
+    let b = 50; // local scope 
     console.log(b);  
 if(true){
 let b= 40;

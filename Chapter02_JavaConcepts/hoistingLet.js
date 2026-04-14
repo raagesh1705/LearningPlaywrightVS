@@ -1,0 +1,14 @@
+console.log(username);
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+let username ="raagesh";
+console.log(username);
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log("Raaagesh is awesome");
+console.log(username); 
